@@ -3,3 +3,62 @@
   status: "Boss Man",
   currentOccupation: "Baller"
 }
+
+
+{
+/*
+32 1s and 0s 
+
+update the counting 
+
+
+*/ 
+}
+{
+  if name first letter is a-j, months January-june, number %1,  color green percentage above 50
+  const array1 = [
+    "Agile", "Accelerated", "Active", "Aggressive", "Animated", 
+    "Blazing", "Bounding", "Brisk", "Charging", "Darting", 
+    "Driven", "Dynamic", "Energetic", "Feisty", "Fierce", 
+    "Fleet", "Flying", "Galloping", "Hyper", "Impulsive", 
+    "Intense", "Kinetic", "Lively", "Mercurial", "Nimble", 
+    "Perky", "Peppy", "Quick", "Rapid", "Restless", 
+    "Rushing", "Snappy", "Speedy", "Spirited", "Sprightly", 
+    "Spry", "Swift", "Turbulent", "Urgent", "Vibrant", 
+    "Vigor", "Zesty", "Zippy"
+  ];
+k-z, july-december, %0, 
+  const array2 = [
+    "Bold", "Boisterous", "Breakneck", "Bustling", "Catapulting", 
+    "Clashing", "Crashing", "Decisive", "Diving", "Drastic", 
+    "Exploding", "Explosive", "Flashing", "Forceful", 
+    "Hurling", "Impactful", "Jolt", "Jabbing", "Launching", 
+    "Leaping", "Lunging", "Pounding", "Plunging", "Propelling", 
+    "Pushing", "Raging", "Rallied", "Relentless", "Rolling", 
+    "Running", "Shaking", "Shocking", "Slashing", "Smashing", 
+    "Springing", "Sprinting", "Stomping", "Stormy", "Striking", 
+    "Surging", "Sweeping", "Thrusting", "Thumping", "Unstoppable", 
+    "Vehement", "Vigorous", "Violent", "Whirling", "Wild"
+  ];
+favroite char a-j, january-june, %1, color green percentage above 50
+  const array3 = [
+    "afraid", "alive", "angry", "annoyed", "bad", "beautiful", "big", "bitter", "black", "blue",
+    "bored", "brave", "bright", "broken", "busy", "calm", "clean", "clever", "cold", "cool",
+    "crazy", "cute", "dark", "dead", "deep", "dirty", "dry", "dull", "early", "easy",
+    "empty", "fair", "fake", "fast", "fat", "fine", "firm", "flat", "free", "fresh",
+    "full", "funny", "gentle", "giant", "good", "great", "green", "gray", "happy", "hard",
+    "heavy", "high", "hot", "huge", "hungry", "icy", "kind", "large", "late", "lazy",
+    "light", "little", "long", "loud", "low", "lucky", "mean", "messy", "modern", "muddy",
+    "narrow", "neat", "new", "nice", "noisy", "odd", "old", "open", "orange", "other",
+    "pale", "plain", "poor", "pretty", "proud", "quiet", "rare", "raw", "red",
+    "rich", "rude", "round", "sad", "safe", "short", "sharp", "shy", "sick", "slow"
+  ];
+k-z, july-december, %0 , lower than 50%
+  const array4 = [
+    "crusher", "wrecker", "shredder", "demolisher", "blaster",
+    "chaser", "runner", "catcher", "stalker", "drifter",
+    "fighter", "striker", "brawler", "slayer", "attacker",
+    "dasher", "leaper", "bounder", "charger",
+    "diver", "slasher", "survivor", "striver", "thrasher"
+  ];
+}

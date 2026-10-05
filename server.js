@@ -61,10 +61,34 @@ const server = http.createServer(function(req, res) {
 
   } else if (page == '/api') {
 
-    if ('palindrome' in params) {
+    if ('wutang' in params) {
 
-      const userInput = params['palindrome']
-      /
+      const userInput = params['wutang']
+
+      console.group(userInput); 
+      /* take the user input count the 1's and the 0's */
+  
+    
+
+
+
+
+      
+
+
+
+
+    
+
+
+      const response = {
+        answer: userInput 
+
+      }
+      res.writeHead(200, {'Content-Type': 'application/json'})
+
+
+      res.end(JSON.stringify(response))
     }
   }
 })
