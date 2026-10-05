@@ -28,13 +28,6 @@ potential 5 arrys connected to each input?
 and then take like 2-3 words to generate the name? 
 
 
-
-
-
-
-
-
-
 */
 
 
@@ -60,8 +53,11 @@ document.querySelector("#submit").addEventListener('click', function () {
     .then((data => {
         console.log(data)
         const result = document.createElement("h2")
-        result.textContent = data.answer
+        result.textContent = `Hey, ${name}, from this day forward you'll be known as ${data.answer}`
         document.body.appendChild(result)
 
     }))
 })
+
+/* how to take binary and return a conssitent naming 
+*/ 
