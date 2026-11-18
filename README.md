@@ -1,5 +1,7 @@
 # 🎤 Wu-Tang Name Generator
 
+🌐 **Live Demo:** https://kinzarehman.github.io/wu-tang-generator/
+
 ## Goal
 
 Create a Wu-Tang-inspired name generator. The user answers **5 survey questions**, and their answers are combined to generate a unique Wu-Tang-style name.
